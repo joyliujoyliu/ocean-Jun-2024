@@ -1,0 +1,37 @@
+Layer / Couche,Field / Champ,Field Description,Description du champ
+CRIB_TechRep_PrpRisk_PerCell,OBJECTID,ArcGIS Field ,Identifiant ArcGIS
+CRIB_TechRep_PrpRisk_PerCell,Shape,ArcGIS Field ,Identifiant ArcGIS
+CRIB_TechRep_PrpRisk_PerCell,Longitude_DD,longitude of grid cell,longitude de la cellule de grille
+CRIB_TechRep_PrpRisk_PerCell,Latitude_DD,latitude of grid cell,latitude de la cellule de grille
+CRIB_TechRep_PrpRisk_PerCell,ssp,shared socioeconomic pathway scenario,scénario de profil socioéconomique partagé
+CRIB_TechRep_PrpRisk_PerCell,nspec,number of species present in grid cell,nombre d’espèces présentes dans la cellule de grille
+CRIB_TechRep_PrpRisk_PerCell,hicrit_vuln,Percentage of species assessed at high or critical climate risk,Pourcentagedes espèces évaluées comme à risque élevé ou critique en raison des changements climatiques
+CRIB_TechRep_PrpRisk_PerCell,hicrit_sens,Percentage of species assessed at high or critical climate risk in the sensitivity dimension.,Pourcentage des espèces évaluées comme à risque élevé ou critique en raison des changements climatiques selon la sensibilité.
+CRIB_TechRep_PrpRisk_PerCell,hicrit_expo,Percentage of species assessed at high or critical climate risk in the exposure dimension.,Pourcentage des espèces évaluées comme à risque élevé ou critique en raison des changements climatiques selon l’exposition.
+CRIB_TechRep_PrpRisk_PerCell,hicrit_adcap,Percentage of species assessed at high or critical climate risk in the adaptivity dimension.,Pourcentage des espèces évaluées comme à risque élevé ou critique en raison des changements climatiques selon l’adaptation.
+CRIB_TechRep_PrpRisk_PerCell,neg_vuln,Percentage of species assessed at negligible climate risk.,Pourcentage des espèces évaluées comme à risque négligeable en raison des changements climatiques.
+CRIB_TechRep_PrpRisk_PerCell,neg_sens,Percentage of species assessed at negligible climate risk in the sensitivity dimension.,Pourcentage des espèces évaluées comme à risque négligeable en raison des changements climatiques selon la sensibilité.
+CRIB_TechRep_PrpRisk_PerCell,neg_expo,Percentage of species assessed at negligible climate risk in the exposure dimension.,Pourcentage des espèces évaluées comme à risque négligeable en raison des changements climatiques selon l’exposition.
+CRIB_TechRep_PrpRisk_PerCell,neg_adcap,Percentage of species assessed at negligible climate risk in the adaptivity dimension.,Pourcentage des espèces évaluées comme à risque négligeable en raison des changements climatiques selon l’adaptation.
+CRIB_TechRep_PrpRisk_PerCell,hi_vuln,Percentage of species assessed at high climate risk.,Pourcentage des espèces évaluées comme à risque élevé en raison des changements climatiques.
+CRIB_TechRep_PrpRisk_PerCell,hi_sens,Percentage of species assessed at high climate risk in the sensitivity dimension.,Pourcentage des espèces évaluées comme à risque élevé en raison des changements climatiques selon la sensibilité.
+CRIB_TechRep_PrpRisk_PerCell,hi_expo,Percentage of species assessed at high climate risk in the exposure dimension.,Pourcentage des espèces évaluées comme à risque élevé en raison des changements climatiques selon l’exposition.
+CRIB_TechRep_PrpRisk_PerCell,hi_adcap,Percentage of species assessed at high climate risk in the adaptivity dimension.,Pourcentage des espèces évaluées comme à risque élevé en raison des changements climatiques selon l’adaptation.
+CRIB_TechRep_PrpRisk_PerCell,crit_vuln,Percentage of species assessed at critical climate risk.,Pourcentage des espèces évaluées comme à risque critique en raison des changements climatiques.
+CRIB_TechRep_PrpRisk_PerCell,crit_sens,Percentage of species assessed at critical climate risk in the sensitivity dimension.,Pourcentage des espèces évaluées comme à risque critique en raison des changements climatiques selon la sensibilité.
+CRIB_TechRep_PrpRisk_PerCell,crit_expo,Percentage of species assessed at critical climate risk in the exposure dimension.,Pourcentage des espèces évaluées comme à risque critique en raison des changements climatiques selon l’exposition.
+CRIB_TechRep_PrpRisk_PerCell,crit_adcap,Percentage of species assessed at critical climate risk in the adaptivity dimension.,Pourcentage des espèces évaluées comme à risque critique en raison des changements climatiques selon l’adaptation.
+CRIB_TechRep_VulnAvg_PerCell,OBJECTID,ArcGIS Field ,Identifiant ArcGIS
+CRIB_TechRep_VulnAvg_PerCell,Shape,ArcGIS Field ,Identifiant ArcGIS
+CRIB_TechRep_VulnAvg_PerCell,Longitude_DD,longitude of grid cell,longitude de la cellule de grille
+CRIB_TechRep_VulnAvg_PerCell,Latitude_DD,latitude of grid cell,latitude de la cellule de grille
+CRIB_TechRep_VulnAvg_PerCell,ssp,shared socioeconomic pathway scenario,scénario de profil socioéconomique partagé
+CRIB_TechRep_VulnAvg_PerCell,nspecies,number of species present in grid cell,nombre d’espèces présentes dans la cellule de grille
+CRIB_TechRep_VulnAvg_PerCell,adcap,mean of climate adaptivity scores for all species in grid cell.,moyenne des valeurs d’adaptation aux changements climatiques pour toutes les espèces dans la cellule de grille.
+CRIB_TechRep_VulnAvg_PerCell,sens,mean of climate sensitivity scores for all species in grid cell.,moyenne des valeurs de sensibilité aux changements climatiques pour toutes les espèces dans la cellule de grille.
+CRIB_TechRep_VulnAvg_PerCell,expo,mean of climate exposure scores for all species in grid cell.,moyenne des valeurs d’exposition aux changements climatiques pour toutes les espèces dans la cellule de grille.
+CRIB_TechRep_VulnAvg_PerCell,vuln,mean of climate vulnerability scores for all species in grid cell.,moyenne des valeurs de vulnérabilité aux changements climatiques pour toutes les espèces dans la cellule de grille.
+CRIB_TechRep_VulnAvg_PerCell,adcapsd,standard deviation of climate adaptivity scores for all species in grid cell.,écart-type des valeurs d’adaptation aux changements climatiques pour toutes les espèces dans la cellule de grille.
+CRIB_TechRep_VulnAvg_PerCell,senssd,standard deviation of climate sensitivity scores for all species in grid cell.,écart-type des valeurs de sensibilité aux changements climatiques pour toutes les espèces dans la cellule de grille.
+CRIB_TechRep_VulnAvg_PerCell,exposd,standard deviation of climate exposure scores for all species in grid cell.,écart-type des valeurs d’exposition aux changements climatiques pour toutes les espèces dans la cellule de grille.
+CRIB_TechRep_VulnAvg_PerCell,vulnsd,standard deviation of climate vulnerability scores for all species in grid cell.,écart-type des valeurs de vulnérabilité aux changements climatiques pour toutes les espèces dans la cellule de grille.
